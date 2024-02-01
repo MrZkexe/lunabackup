@@ -8,6 +8,7 @@ To install Lunabackup, follow these steps:
 Run the installer.sh script as the root user:
 ```bash
 su -
+chmod +x installer.sh
 ./installer.sh
 ```
 This script sets up a cron job to run Lunabackup every midnight and also executes upon completion.
