@@ -27,4 +27,7 @@ Lunabackup performs backups for both directories and files. The backup of MariaD
 <h1>MariaDB Backup</h1>
 Lunabackup backs up MariaDB databases automatically. If you need to back up other databases or files, consider contributing to the project and expanding its capabilities.
 
+
+
+<h3>Important Reminder:</h3> We strongly recommend that, after completing the backup, transfer the files to another internal server. Backups should not be stored on the main server for security reasons.<br>
 Feel free to reach out if you have any questions or encounter issues. Happy backing up!
