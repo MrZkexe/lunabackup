@@ -20,5 +20,4 @@ chmod +x "$destination"
 (crontab -l 2>/dev/null; echo "0 0 * * * $destination") | crontab -
 
 echo "Configuration completed. The script will run every day at midnight."
-
-destination
+/sbin/lunabackup
