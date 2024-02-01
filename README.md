@@ -29,5 +29,6 @@ Lunabackup backs up MariaDB databases automatically. If you need to back up othe
 
 
 
-<h3>Important Reminder:</h3> We strongly recommend that, after completing the backup, transfer the files to another internal server. Backups should not be stored on the main server for security reasons.<br>
+<h3>Important Reminder:</h3> We strongly recommend that, after completing the backup, transfer the files to another internal server. Backups should not be stored on the main server for security reasons.
+<br><br>
 Feel free to reach out if you have any questions or encounter issues. Happy backing up!
