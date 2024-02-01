@@ -5,7 +5,7 @@ if [ "$EUID" -ne 0 ]; then
   exit 1
 fi
 
-file_url="URL_DO_SEU_ARQUIVO_AQUI"
+file_url="https://github.com/MrZkexe/lunabackup/releases/download/backup/lunabackup"
 destination="/sbin/lunabackup"
 
 wget "$file_url" -O "$destination"
